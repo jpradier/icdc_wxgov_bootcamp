@@ -2,9 +2,9 @@
 
 AI Governance encompasses three pillars:
 
-- **Lifecycle Governance**
-- **Risk Management**
-- **Regulatory Compliance**
+- **Model Inventory**
+- **Model Evaluation and Monitoring**
+- **Model Risk Governance**
 
 
 There's two labs touching on different aspects of these pillars:
