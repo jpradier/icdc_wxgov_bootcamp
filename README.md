@@ -16,9 +16,4 @@ In this lab, María, an AI Engineer working for ABC health. She is building an A
 ### ⚠️ [Lab 2: Risk and compliance](risk-and-compliance/README.md)
 As organizations increasingly rely on AI-driven decision-making, ensuring trust, compliance, and ethical integrity of models is crucial. At TechCorp Inc., the risk and compliance team faced growing pressure to govern AI models end-to-end—from inception to incident remediation. Manual checks, siloed responsibilities, and lack of visibility into model behavior increased regulatory exposure and audit fatigue.
 
-### 👥 Cater to your audience
-Depending on the audience you might want to pick and choose an entire lab or parts of it.
-
-👷🏻‍♂️ If there's mostly AI Engineers or Data Scientists in the room, [Lab 1: Guardrails and monitoring](monitoring-and-guardrails/README.md) would suit you best.
-
-💼 If there's mostly business line folks, or Risk/Compliance teams, [Lab 2: Risk and compliance](risk-and-compliance/README.md) might work best.
+This hands-on lab guides you through implementing a comprehensive AI governance framework using IBM watsonx.governance. 
